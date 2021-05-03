@@ -1,5 +1,5 @@
 # TheBestSellers
-https://jakelw96.github.io/the-best-sellers/
+https://geevaveeri.github.io/the-best-sellers/
 ![TheBestSellers](https://user-images.githubusercontent.com/78703743/116832128-c41f3b00-ab70-11eb-9ec7-798a959f0a6c.jpg)
 
 
